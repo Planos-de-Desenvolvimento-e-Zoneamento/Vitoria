@@ -1,0 +1,1 @@
+var json_ImveisTombados_1 = {"type":"FeatureCollection","name":"ImveisTombados_1","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"Nome":"Muro (E22)","Inst_Legal":"PDU de Vitória (2018)","Área":"Informação não encontrada."},"geometry":{"type":"Point","coordinates":[-40.339070092972008,-20.322217423473617]}}]}
